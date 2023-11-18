@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AYA BELLALY</h1>
 <h3 align="center">A passionate software engineer from Morocco.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fnerd-ginger-cat-typing-8308pf65yrgevcln.html&psig=AOvVaw0fUKWHQ_fXCTjHmZ3epw52&ust=1700418893411000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj_jZOYzoIDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayabellaly&label=Profile%20views&color=0e75b6&style=flat" alt="ayabellaly" /> </p>
 
